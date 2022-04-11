@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Loepz</h1>
+<h1 align="center">Hi 👋, I'm Manuel Lopez</h1>
 <h3 align="center">A passionate Fullstack developer from Aruba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manolotonto1&label=Profile%20views&color=0e75b6&style=flat" alt="manolotonto1" /> </p>
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Quote Maker**
 
-- ⚡ Fun fact **I Love games but I barely Play video Games**
+- ⚡ Fun fact **I Love games but I barely play video Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
