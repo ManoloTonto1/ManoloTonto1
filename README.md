@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Manuel Loepz</h1>
-<h3 align="center">A passionate frontend developer from Aruba</h3>
+<h1 align="center">Hi 👋, I'm Manuel Lopez</h1>
+<h3 align="center">A passionate developer from Aruba, who is now living in The Hague!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manolotonto1&label=Profile%20views&color=0e75b6&style=flat" alt="manolotonto1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manolotonto1" alt="manolotonto1" /></a> </p>
 
-- 🔭 I’m currently working on **Quote Maker**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Electron JS, Golang, ReactJS**
+- 🌱 I’m currently learning **TensorFlow, ReactJS**
 
 - 👯 I’m looking to collaborate on **Game Projects**
 
-- 🤝 I’m looking for help with **Quote Maker**
+- 🤝 I’m looking for help with **Motivation**
 
 - 📫 How to reach me **manuelalfonzo.ml@gmail.com**
 
