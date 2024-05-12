@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Motivation**
 
-- 📫 How to reach me **manuelalfonzo.ml@gmail.com**
+- 📫 How to reach me **manuel@grapeseed.nl**
 
 - ⚡ Fun fact **I Love games but I barely Play video Games**
 
